@@ -13,4 +13,3 @@ const longest = (strs) => {
     return prefix;
 }
 
-console.log(longest(["flower","flow"]))
