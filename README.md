@@ -10,3 +10,7 @@
 
 #### Day-3
 * Reverse-Integer(Medium)
+* Remove-Duplicate(Easy)
+
+#### Day-4
+* Longest-Common-Prefix(Medium)
