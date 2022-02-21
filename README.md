@@ -14,3 +14,7 @@
 
 #### Day-4
 * Longest-Common-Prefix(Medium)
+* Valid Parenthesis(Easy)
+
+#### Day-5
+* ZigZag-Conversion
