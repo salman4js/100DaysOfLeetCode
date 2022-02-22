@@ -17,4 +17,7 @@
 * Valid Parenthesis(Easy)
 
 #### Day-5
-* ZigZag-Conversion
+* ZigZag-Conversion(Medium)
+
+#### Day-6
+* Add Two Numbers Of a Linked List(Medium)
