@@ -18,6 +18,7 @@
 
 #### Day-5
 * ZigZag-Conversion(Medium)
+* Remove Element(Easy)
 
 #### Day-6
 * Add Two Numbers Of a Linked List(Medium)
